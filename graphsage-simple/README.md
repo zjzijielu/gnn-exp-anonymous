@@ -1,5 +1,5 @@
 # Submodule for gnn-exp
-Refer to https://github.com/zjzijielu/gnn-exp for a detailed runbook.
+Refer to root folder README for a detailed runbook.
 
 # Reference PyTorch GraphSAGE Implementation
 ### Author: William L. Hamilton
